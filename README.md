@@ -1,4 +1,5 @@
 # ExploringParallels
+## Powerpoint Analysis
 <img src="https://github.com/kate-amsterdam/ExploringParallels/blob/main/slides/Slide1.jpeg" width="775">
 <img src="https://github.com/kate-amsterdam/ExploringParallels/blob/main/slides/Slide2.jpeg" width="775">
 <img src="https://github.com/kate-amsterdam/ExploringParallels/blob/main/slides/Slide3.jpeg" width="775">
